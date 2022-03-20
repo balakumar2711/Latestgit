@@ -1,0 +1,5 @@
+total 8
+-rw-rw-r-- 1 ec2-user ec2-user 56 Mar 15 16:10 file1.txt
+drwxrwxr-x 2 ec2-user ec2-user 40 Mar 15 15:57 commands
+-rw-rw-r-- 1 ec2-user ec2-user 33 Mar 15 16:10 file2.txt
+-rw-rw-r-- 1 ec2-user ec2-user  0 Mar 15 16:30 file3.txt

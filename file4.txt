@@ -1,0 +1,4 @@
+Bala\
+Concatenate
+This is a sample
+To check cat command
